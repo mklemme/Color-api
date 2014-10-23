@@ -1,0 +1,19 @@
+{
+  "name": "colorProject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.9.1",
+    "connect": "^3.3.1",
+    "ejs": "^1.0.0",
+    "express": "^4.9.8",
+    "node-sass-middleware": "^0.4.0",
+    "request": "^2.45.0"
+  }
+}

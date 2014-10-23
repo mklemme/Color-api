@@ -1,0 +1,15 @@
+body{
+  min-height: 200px;
+}
+
+h1{
+  color: white !important;
+  font-weight: 700;
+  font-size: 100px;
+  font-family: 'Raleway', sans-serif;
+  text-transform: uppercase;
+}
+.pure-g{
+  max-width: 900px;
+  margin: auto;
+}
